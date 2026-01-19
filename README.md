@@ -74,19 +74,6 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
-
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=maximus792&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=maximus792&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximus792&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
-
-</div>
-
----
-
 ## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> Featured Projects
 
 ### Bachillerat Projects
