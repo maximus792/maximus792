@@ -12,9 +12,9 @@
 
 <table>
 <tr>
-<td width="80" align="center"><b>2012</b></td>
+<td width="80" align="center"><b>2015</b></td>
 <td>
-  <b>Started Coding at Age 12</b><br/>
+  <b>Started Coding at Age 10</b><br/>
   Joined Codelearn Academy as a student, beginning my programming journey
 </td>
 </tr>
@@ -141,6 +141,6 @@
   
 ![Profile Views](https://komarev.com/ghpvc/?username=maximus792&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
 
-*"From learning to code at 12 to building production applications - the journey continues..."*
+*"From learning to code at 10 to building production applications - the journey continues..."*
 
 </div>
